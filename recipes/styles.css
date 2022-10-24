@@ -1,0 +1,22 @@
+body { 
+    background-color: green;
+    text-align: center;
+} 
+
+h1 {
+    color: aquamarine;
+}
+
+ul {
+    background-color: bisque;
+}
+
+ol {
+    background-color: bisque;
+    text-align: justify;
+}
+
+.desc {
+    background-color: bisque;
+    text-align: center;
+}
